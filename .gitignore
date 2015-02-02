@@ -1,0 +1,11 @@
+docs
+venv
+test
+sources
+data
+__pycache__
+.ropeproject
+*.pyc
+*.swp
+*.log
+*.rdb
