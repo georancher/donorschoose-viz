@@ -10,6 +10,9 @@ Introduction in to building blocks for interactive data visualization using
 dataset from DonorsChoose.org. The data visualization represents school
 donations broken down by different attributes.
 
+![visualization
+demo](https://raw.githubusercontent.com/mattgathu/donorschoose-viz/master/viz_demo.gif)
+
 ### Resources
 
 ---
